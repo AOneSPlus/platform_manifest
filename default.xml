@@ -5,7 +5,7 @@
            fetch="https://android.googlesource.com/" />
 
   <remote  name="aospo"
-           fetch="https://github.com/AOneSPlus"
+           fetch="https://github.com/aospo"
 	   revision="android_5.1" />
 
   <default revision="refs/tags/android-5.1.0_r1"
